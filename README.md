@@ -31,7 +31,7 @@ That's it. The script handles FFmpeg automatically on Windows if it isn't alread
 Run the script:
 
 ```bash
-python yt_scraper_segments_cli.py
+python youtubeskraper.py
 ```
 
 Enter a YouTube URL and follow the interactive prompts.
